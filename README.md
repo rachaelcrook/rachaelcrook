@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rachaelcrook
-- 👀 I’m interested in Python, IaC, Cloud architectures
-- 🌱 I’m currently learning Kubernetes (Studying for the CKA)
+- 👀 I’m interested in Python, IaC, Cloud architectures, GitOps, CI/CD
 
 
 <!---
